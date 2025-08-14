@@ -1,5 +1,5 @@
 # **Computational Methods for Predicting N⁴-Methylcytosine Sites**
-A list of computational methods for 4mC methylation prediction
+A list of computational methods for 4mC methylation prediction.
 ## Contents
 - [Computational Methods for Predicting N⁴-Methylcytosine Sites](#computational-methods-for-predicting-n⁴-methylcytosine-sites)
   - [Contents](#contents)
